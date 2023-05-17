@@ -3,7 +3,7 @@ body {
   }
 
   .container {
-    width: 300px;
+    width: 500px;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid #ccc;
@@ -52,3 +52,18 @@ body {
     font-size: 14px;
     margin-top: 5px;
   }
+
+  .group_email {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+  }
+
+  .group_senha {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+  }
+
